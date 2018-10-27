@@ -5,8 +5,8 @@ import Layout from './Layout';
 import Auth from './Auth';
 
 export default {
-  Auth,
-  ThemeOptions,
-  Layout,
-  form: formReducer
+	Auth,
+	ThemeOptions,
+	Layout,
+	form: formReducer
 };
